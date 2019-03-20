@@ -5,7 +5,8 @@
 
 python dcgan.py
 
-The underwater image data collection from web crawler collection, there are five type: Coral, Jellyfish, Parrotfish, SeaAnemone, Zebrafish. The original image and the GAN generated image are visualized as follows:
+The underwater image data collection from web crawler collection, there are five type: Coral, Jellyfish, Parrotfish, SeaAnemone, Zebrafish. 
+The follows images are acgan(five classes), sgan(five classes), dcgan(Parrotfish),wgan_gp(Parrotfish), original images(Parrotfish), respectively:
 
 ![acgan](https://github.com/Briwisdom/Underwater-image-generate/blob/master/acgan/images/1100.png)
 
